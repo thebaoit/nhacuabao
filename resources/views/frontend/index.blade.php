@@ -7,6 +7,7 @@
 				<ul id="nav-menus">
 					<li class="item"><a href="{{ URL::to('') }}">Nhà tui</a></li>
 					<li class="item"><a href="{{ URL::to('ve-tui-day') }}">Về tui đây</a></li>
+					<li class="item"><a href="{{ URL::to('ve-tui-day') }}">Ve day</a></li>
 					<li class="item"><a href="{{ URL::to('tui-binh-loan') }}">Tui bình loạn</a></li>
 					<li class="item"><a href="{{ URL::to('lien-he-tui-di') }}">Liên hệ tui đi</a></li>
 				</ul>
