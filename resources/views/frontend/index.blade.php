@@ -11,7 +11,7 @@
 					<li class="item"><a href="{{ URL::to('lien-he-tui-di') }}">Liên hệ tui đi</a></li>
 				</ul>
 				<ul id="nav-social" class="pull-right">
-					<li class="item">Tìm tui trên</li>
+					<li class="item">Tìm tao trên</li>
 					<li class="item social"><a target="_blank" href="http://facebook.com/thebaoit"><img src="{{ asset('images/fb.png') }}"></a></li>
 					<li class="item social"><a href="#"><img src="{{ asset('images/twiter.png') }}"></a></li>
 					<li class="item social"><a target="_blank" href="http://instagram.com/thebaoit/"><img src="{{ asset('images/instagram.png') }}"></a></li>
